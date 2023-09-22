@@ -3,4 +3,4 @@ layout: none
 permalink: .well-known/tor-relay/rsa-fingerprint.txt
 ---
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+0000000000000000000000000000000000000000
